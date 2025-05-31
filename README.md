@@ -16,7 +16,7 @@ Python 数据清洗（Pandas）
 克里斯托弗·诺兰：`6部`
 
 ## 文件说明
-'data_analysis.ipynb'：完整分析代码  
-'clean_douban.csv'：清洗后数据
+`data_analysis.ipynb`：完整分析代码  
+`clean_douban.csv`：清洗后数据
 
 数据来源：Kaggle公开数据集，仅用于学习目的
